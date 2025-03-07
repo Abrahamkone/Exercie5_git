@@ -5,5 +5,9 @@ public class Main {
         System.out.println("IBRAH2");
         System.out.println("IBRAH3");
         System.out.println("Leslie");
+        for (int i = 0; i < 5; i++) {
+            System.out.println(i);
+        }
+        System.out.println(" ");
     }
 }
