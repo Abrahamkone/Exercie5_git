@@ -10,5 +10,7 @@ public class Main {
         }
         System.out.println(" ");
         System.out.println("Conflit avec Leslie");
+        System.out.println("Conflit avec Leslie resolu");
+    }
     }
 }
